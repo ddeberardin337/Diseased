@@ -52,7 +52,7 @@ This project was developed collaboratively with teammates responsible for artist
 3. Open the main game scene.
 4. Run the project through the Unity Editor.
 
-*Note: Add the required Unity version and any build instructions once confirmed.*
+*Note: Built on Unity 6000.3.25f1*
 
 ## Project Status
 
