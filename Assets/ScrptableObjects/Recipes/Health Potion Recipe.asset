@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd788e075fd1f9a469648bb1c0108d6e, type: 3}
+  m_Name: Health Potion Recipe
+  m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipe
+  ingredientA: {fileID: 11400000, guid: fe55f63213f69bc47868d09b5a783af3, type: 2}
+  ingredientB: {fileID: 11400000, guid: 47353bfcbcb164647be8efb04cf5d490, type: 2}
+  result: {fileID: 11400000, guid: 0da14d7fb6944ad44a91b875c798e6a7, type: 2}

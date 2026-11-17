@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4133effae2466f042a69f7677fc03db8, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Venomous Snake
+  description: A strange venomous snake hissing in its jar. Vile creature, but apparently
+    its venom is fate changing...
+  effectDescription: You wouldn't want to open that jar... the snake doesn't look
+    too friendly.
+  isUsable: 0
+  consumeOnUse: 0
+  effectType: 0
+  effectAmount: 0
+  effectDuration: 0
+  maxStackSize: 99
+  category: 2
