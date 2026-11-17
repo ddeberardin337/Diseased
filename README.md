@@ -43,7 +43,7 @@ Other team members primarily contributed the game's art, audio, and scene design
 
 **Project Role:** Primary Programmer / Gameplay Systems Developer
 
-This project was developed collaboratively with teammates responsible for artistic and audio contributions. Development took place within the GameJam's limited timeframe.
+This project was developed collaboratively with teammates responsible for artistic, audio, and scene design contributions. Development took place within the GameJam's limited timeframe.
 
 ## Running the Project
 
